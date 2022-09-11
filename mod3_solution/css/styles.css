@@ -1,0 +1,38 @@
+/********** Title section **********/
+/* Set navigation bar color*/
+#header-nav {
+    background-color: #999999 
+}
+/* Set navigation bar text color*/
+#header-nav a {
+    color: black 
+}
+/* Set navigation button line color*/
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+/* Set dropdown togger line color and border*/
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+.navbar-collapse li, .navbar-default .navbar-header{
+    border-bottom-style: double;
+}
+/* Set navigation bar text color and margin*/
+#nav-list {
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+/********** Content section **********/
+/* Set textbox color and spacing*/
+.textbox {
+    background-color: #999999;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 3px;
+}
+/* Set text padding*/
+p {
+    padding: 10px;
+}
