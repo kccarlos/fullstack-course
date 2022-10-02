@@ -10,4 +10,7 @@
  - Assignment 4
    - Preview URL: https://kccarlos.github.io/fullstack-course/mod4_solution/ (Need to open Developer Tools - Console)
    - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod4_solution
- - Assignment 5 (Coming soon!)
+ - Assignment 5
+    - Preview URL: https://kccarlos.github.io/fullstack-course/mod5_solution/
+    - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod5_solution
+ - Assignment 6 (Coming soon!)
