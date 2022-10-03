@@ -354,11 +354,11 @@ dc.loadAboutPage = function () {
         for (let i = 1; i < 6; i ++) {
           if (i <= starnum) {
             var abouthtml = insertProperty(abouthtml,
-                'star-'+i.toString(), "'fa fa-star'");
+                'class'+i.toString(), "'fa fa-star'");
           }
           else {
             var abouthtml = insertProperty(abouthtml,
-                'star-'+i.toString(), "'fa fa-star-o'");
+                'class'+i.toString(), "'fa fa-star-o'");
           }
 
         }
