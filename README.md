@@ -19,4 +19,7 @@
  - Assignment 7
     - Preview URL: https://kccarlos.github.io/fullstack-course/mod7_solution/
     - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod7_solution
- - Assignment 8 (Coming soon!)
+ - Assignment 8
+    - Preview URL: https://kccarlos.github.io/fullstack-course/mod8_solution/
+    - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod8_solution
+ - Assignment 9 (Coming soon!)
