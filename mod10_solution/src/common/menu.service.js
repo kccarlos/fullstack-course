@@ -33,7 +33,7 @@ function MenuService($http, ApiPath) {
       return Promise.resolve(null);
     };
     let letters = menuNumber.match(/^[A-Z]{1,2}/);
-    let numbers = str.split(letters)[1];
+    let numbers = parseInt(menuNumber.match(/\d{1,2}/)) - 1;
     console.log('Letters', letters);
     console.log('Digits', numbers);
     let url = ApiPath + '/menu_items/' + letters + '/menu_items/' + numbers + '.json';
