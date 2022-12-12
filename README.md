@@ -27,4 +27,5 @@
     - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod9_solution
  - Assignment 10
     - Preview URL: https://kccarlos.github.io/fullstack-course/mod10_solution/
+    - Unit Testing URL: https://kccarlos.github.io/fullstack-course/mod10_solution/SpecRunner.html
     - Code: https://github.com/kccarlos/fullstack-course/tree/main/mod10_solution
